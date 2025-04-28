@@ -30,7 +30,7 @@ https://counter-click-0.netlify.app/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/counter-mini-project.git
+   git clone https://github.com/Abbas81kh/Counter-click.git
    ```
 
 2. Navigate into the project directory:
