@@ -50,7 +50,10 @@ margin-top: 15%;
     font-size: 15px;
     border-radius: 8px;
 }
-
+.btns:hover{
+    transform: scale(1.08);
+    cursor: pointer;
+}
 @media(max-width:600px){
     .counter-main{
         margin-left: 12%;
